@@ -1,0 +1,73 @@
+body{
+  background-color: #1C242F;
+  background-image:url("bg1.png") ;
+  background-size: 100% auto;
+  margin: 0;
+  width: 100%;
+}
+#lptp{
+width: 43%;
+height: 36%;
+ padding-left: 12%;
+}
+#logomain{
+margin-top: 0.7%;
+  width: 95%;
+  height: 21%;}
+#about{
+margin-top: 15px;
+  width: 95%;
+  height: auto;
+left: 14%;
+top: 400px;
+font-family: Alegreya Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 97.84%;
+color: #FFFFFF;
+text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.2);
+}
+.hrefss{
+  display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+
+width: 634px;
+height: 64px;
+margin-left: 33%;
+top: 19px;
+} .hrefss a{
+font-family: SF Pro Display;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 40px;
+/* identical to box height, or 200% */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0% 2.3%;
+text-decoration: none;}
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  height: 36%;
+  margin-top: 9%;
+}
+.abblock{
+  width: 31.6%;
+  height: 11.4%;
+}
